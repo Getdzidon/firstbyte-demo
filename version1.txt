@@ -5,7 +5,9 @@ backup. I will be working on this tomorrow - Donatus
  
 
 Git solves all of this. It tracks every change to every file, stores a complete history, and lets multiple people work on the
-same codebase simultaneously without overwriting each other's work. - Max
+same codebase simultaneously without overwriting each other's work. 
+
+Hi Boss I am working on it - Max
 
 
 Git Setup and Core Commands
