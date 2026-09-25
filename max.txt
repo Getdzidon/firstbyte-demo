@@ -1,0 +1,13 @@
+$ git pull origin max
+remote: Enumerating objects: 11, done.
+remote: Counting objects: 100% (10/10), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 7 (delta 2), reused 5 (delta 2), pack-reused 0 (from 0)
+Unpacking objects: 100% (7/7), 2.30 KiB | 49.00 KiB/s, done.
+From https://github.com/Getdzidon/firstbyte-demo
+ * branch            max        -> FETCH_HEAD
+   fb657f6..1de904d  max        -> origin/max
+Updating fb657f6..1de904d
+Fast-forward
+ dere.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
