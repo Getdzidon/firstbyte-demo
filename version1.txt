@@ -1,9 +1,7 @@
 Without version control, every software project eventually becomes chaos. Files get overwritten, changes are lost,
 nobody knows who changed what or when, and rolling back a bad change means hoping someone made a manual
 backup. I will be working on this tomorrow - Donatus
-hbfvvbjertb
-v rjvtg
- jbtb 
+
  
 
 Git solves all of this. It tracks every change to every file, stores a complete history, and lets multiple people work on the
